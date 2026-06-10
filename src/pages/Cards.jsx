@@ -108,10 +108,7 @@ export default function Cards() {
           ))}
         </div>
 
-        <p className="cards-howto">
-          // to add a card: edit <code>src/data/cards.js</code>, then push to
-          GitHub — the site updates automatically
-        </p>
+        
       </section>
     </main>
   );
