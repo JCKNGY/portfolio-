@@ -169,7 +169,7 @@ export default function Home() {
           together? My inbox is open.
         </p>
         <div className="contact-links">
-          <a href="mailto:your@email.com" className="btn-solid">email me</a>
+          <a href="mailto:jkncpp@email.com" className="btn-solid">email me</a>
           <a
             href="https://github.com/JCKNGY"
             target="_blank"
@@ -179,7 +179,7 @@ export default function Home() {
             github
           </a>
           <a
-            href="https://linkedin.com/in/yourprofile"
+            href="https://www.linkedin.com/in/minh-nguyen-715991372/"
             target="_blank"
             rel="noreferrer"
             className="btn-ghost"
