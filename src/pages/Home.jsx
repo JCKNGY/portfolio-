@@ -28,8 +28,8 @@ const projects = [
 ];
 
 const stats = [
-  { label: "Class", value: "Computer Engineering" },
-  { label: "Guild", value: "UT Dallas" },
+  { label: "Class", value: "Engineering" },
+  { label: "Guild", value: "Liberty High School" },
   { label: "Spawn Point", value: "Frisco, TX" },
   { label: "Main Quest", value: "Build cool hardware" },
   { label: "Side Quests", value: "STEMist outreach · DECA" },
@@ -38,9 +38,9 @@ const stats = [
 
 const skills = [
   { name: "C / C#", level: 80 },
-  { name: "Python", level: 75 },
+  { name: "Python", level: 35 },
   { name: "Java", level: 70 },
-  { name: "JavaScript / React", level: 60 },
+  { name: "JavaScript / React", level: 30 },
   { name: "Unity", level: 70 },
   { name: "Linux", level: 85 },
   { name: "Arduino / RPi", level: 65 },
@@ -83,8 +83,8 @@ export default function Home() {
         <div className="about-grid">
           <div className="about-text">
             <p>
-              Hey, I'm Jack (also go by Minh). I'm a computer engineering
-              student at UT Dallas who likes building things at every layer —
+              Hey, I'm Jack (also go by Minh). I'm a future computer engineering
+              student at Liberty High School who likes building things at every layer —
               from soldering and breadboards up to game engines and web apps.
             </p>
             <p>
@@ -94,7 +94,7 @@ export default function Home() {
               workshops to younger students.
             </p>
             <p className="about-flavor">
-              Energy level: Snorlax. Curiosity level: maximum.
+              Energy level: Snorlax.
             </p>
           </div>
 
