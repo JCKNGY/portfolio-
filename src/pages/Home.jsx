@@ -10,18 +10,10 @@ const projects = [
     status: "in progress",
   },
   {
-    title: "Arch Linux Daily Driver",
+    title: "Ubuntu Linux Laptop Daily Driver",
     description:
-      "Installed Arch on my laptop from scratch — btrfs subvolumes, systemd-boot, KDE Plasma on Wayland. Yes, I use Arch btw.",
+      "Installed Ubuntu on my laptop and use it for school and daily use. ",
     tech: ["Linux", "Bash"],
-    link: "https://github.com/JCKNGY",
-    status: "shipped",
-  },
-  {
-    title: "Arduino Tinkering",
-    description:
-      "Embedded experiments with Arduino and Raspberry Pi. Blinking LEDs was just the beginning.",
-    tech: ["C", "Arduino", "Raspberry Pi"],
     link: "https://github.com/JCKNGY",
     status: "ongoing",
   },
@@ -37,13 +29,13 @@ const stats = [
 ];
 
 const skills = [
-  { name: "C / C#", level: 80 },
+  { name: "C", level: 80 },
   { name: "Python", level: 35 },
-  { name: "Java", level: 70 },
+  { name: "Java / C#", level: 70 },
   { name: "JavaScript / React", level: 30 },
   { name: "Unity", level: 70 },
   { name: "Linux", level: 85 },
-  { name: "Arduino / RPi", level: 65 },
+  { name: "Arduino / RPi", level: 20 },
 ];
 
 const interests = [
