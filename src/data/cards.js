@@ -31,7 +31,7 @@ export const cards = [
     dateAcquired: "2026-06-10",
     condition: "Near Mint",
     image: "/cards/310_JP.jpg",
-    favorite: true,
+    favorite: false,
   },
   {
     name: "Snorlax",
