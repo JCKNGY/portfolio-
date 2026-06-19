@@ -275,7 +275,7 @@ export const cards = [
     dateAcquired: "2026-06-13",
     condition: "PSA 9",
     image: "/cards/202_EN.jpg",
-    favorite: false,
+    favorite: true,
   },
 
 ];
